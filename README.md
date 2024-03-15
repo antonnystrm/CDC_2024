@@ -10,3 +10,8 @@ This script runs on the same premise as the previous with the same nominal model
 
 # Fkw.m
 This script provides a numerical example of the main result of the associated paper for a Gaussian distribution with the entire complex plane as its support set and plots the resulting CDF of the chordal distance.
+
+
+
+# License
+...
